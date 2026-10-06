@@ -1,0 +1,14 @@
+# Local operating system and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Personal document already present in this folder; not part of the website
+/My_recent_CV (4).pdf
