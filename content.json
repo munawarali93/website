@@ -24,7 +24,7 @@
     {"date": "2011–2014", "title": "BSc", "place": "Shah Abdul Latif University, Khairpur", "detail": "First division"}
   ],
   "papers": [
-    {"year": "2026", "type": "Working paper", "title": "The Generalized Volterra Signature", "authors": "Munawar Ali and Qi Feng", "venue": "Work in progress", "url": ""},
+    {"year": "2026", "type": "Working paper", "title": "The Generalized Volterra Signature", "authors": "Munawar Ali, Qi Feng, and Samy Tindel", "venue": "Work in progress", "url": ""},
     {"year": "2026", "type": "Preprint", "title": "Branched Signature Kernel Solvers for ODEs with Rough Single-Trajectory Signals", "authors": "Munawar Ali, Qi Feng, Charlie Pyle, and George Xu", "venue": "arXiv:2605.25826", "url": "https://arxiv.org/abs/2605.25826", "summary": "A kernel approach to solving differential equations when the forcing is known through just one observed, potentially rough trajectory."},
     {"year": "2025", "type": "Preprint", "title": "Branched Signature Model", "authors": "Munawar Ali and Qi Feng", "venue": "arXiv:2511.00018", "url": "https://arxiv.org/abs/2511.00018", "summary": "A framework for learning with branched signatures, connecting their approximation properties to geometric signatures of extended paths."},
     {"year": "2025", "type": "Preprint", "title": "Noise Estimation of SDE from a Single Data Trajectory", "authors": "Munawar Ali, Purba Das, Qi Feng, Liyao Gao, and Guang Lin", "venue": "arXiv:2509.25484", "url": "https://arxiv.org/abs/2509.25484", "summary": "Recovering stochastic dynamics and noise from a single observed path without assuming stationarity or ergodicity."},
