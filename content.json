@@ -1,0 +1,81 @@
+{
+  "name": "Munawar Ali",
+  "email": "ma22bm@fsu.edu",
+  "role": "PhD Candidate in Financial Mathematics",
+  "institution": "Florida State University",
+  "office": "LOV-303",
+  "lectureship": "Khairpur College of Agriculture and Management Sciences (KCAMS)",
+  "updated": "October 2026",
+  "profiles": [
+    ["Google Scholar", "https://scholar.google.com/citations?user=u_UDW-AAAAAJ&hl=en"],
+    ["GitHub", "https://github.com/munawarali93"],
+    ["LinkedIn", "https://www.linkedin.com/in/munawar-ali-555343167/"],
+    ["YouTube", "https://www.youtube.com/@reconstructingmathematics5739"]
+  ],
+  "interests": [
+    {"title": "Rough paths & signatures", "text": "Branched and Volterra signatures, algebraic structures of path signatures, and representations of non-Markovian dynamics."},
+    {"title": "Stochastic analysis", "text": "Stochastic differential and integral equations, noise estimation from observed trajectories, and mathematical finance."},
+    {"title": "Machine learning", "text": "Signature kernels, learning from irregular data, volatility modeling and calibration, and signature methods for optimal control."}
+  ],
+  "education": [
+    {"date": "2022–present", "title": "PhD in Mathematics", "place": "Florida State University, Tallahassee", "detail": "Financial Mathematics · Advisor: Dr. Qi Feng · GPA: 3.96/4.00"},
+    {"date": "2018–2020", "title": "MS / MPhil in Mathematics", "place": "Sukkur IBA University, Sukkur", "detail": "Gold medalist · GPA: 3.73/4.00"},
+    {"date": "2015–2017", "title": "MSc in Mathematics", "place": "Shah Abdul Latif University, Khairpur", "detail": "Gold medalist · GPA: 4.00/4.00"},
+    {"date": "2011–2014", "title": "BSc", "place": "Shah Abdul Latif University, Khairpur", "detail": "First division"}
+  ],
+  "papers": [
+    {"year": "2026", "type": "Working paper", "title": "The Generalized Volterra Signature", "authors": "Munawar Ali and Qi Feng", "venue": "Work in progress", "url": ""},
+    {"year": "2026", "type": "Preprint", "title": "Branched Signature Kernel Solvers for ODEs with Rough Single-Trajectory Signals", "authors": "Munawar Ali, Qi Feng, Charlie Pyle, and George Xu", "venue": "arXiv:2605.25826", "url": "https://arxiv.org/abs/2605.25826", "summary": "A kernel approach to solving differential equations when the forcing is known through just one observed, potentially rough trajectory."},
+    {"year": "2025", "type": "Preprint", "title": "Branched Signature Model", "authors": "Munawar Ali and Qi Feng", "venue": "arXiv:2511.00018", "url": "https://arxiv.org/abs/2511.00018", "summary": "A framework for learning with branched signatures, connecting their approximation properties to geometric signatures of extended paths."},
+    {"year": "2025", "type": "Preprint", "title": "Noise Estimation of SDE from a Single Data Trajectory", "authors": "Munawar Ali, Purba Das, Qi Feng, Liyao Gao, and Guang Lin", "venue": "arXiv:2509.25484", "url": "https://arxiv.org/abs/2509.25484", "summary": "Recovering stochastic dynamics and noise from a single observed path without assuming stationarity or ergodicity."},
+    {"year": "2025", "type": "Journal article", "title": "Semigroup Theory for Pricing Currency Options Driven by Fractional Brownian Motion", "authors": "Javed Hussain, T. Saeed, W. Gadehi, and Munawar Ali", "venue": "Journal of Nonlinear, Complex and Data Science, 26(6), 297–311", "url": "https://doi.org/10.1515/jncds-2024-0105"},
+    {"year": "2024", "type": "Journal article", "title": "Modeling Credit Risk with Mixed Fractional Brownian Motion: An Application to Barrier Options", "authors": "Javed Hussain and Munawar Ali", "venue": "Nonlinear Engineering, 13(1), 20240003", "url": "https://doi.org/10.1515/nleng-2024-0003"},
+    {"year": "2024", "type": "Journal article", "title": "Global Well-Posedness and Exponential Decay Estimates for Semilinear Newell–Whitehead–Segel Equation", "authors": "Javed Hussain and Munawar Ali", "venue": "Nonlinear Engineering, 13(1), 20240041", "url": "https://doi.org/10.1515/nleng-2024-0041"}
+  ],
+  "courses": [
+    {"term": "Fall 2026", "code": "MAC 2313", "title": "Calculus with Analytic Geometry III", "role": "Solo instructor"},
+    {"term": "Spring 2026", "code": "MAC 2313", "title": "Calculus with Analytic Geometry III", "role": "Solo instructor"},
+    {"term": "Fall 2025", "code": "MAC 2312", "title": "Calculus with Analytic Geometry II", "role": "Solo instructor"},
+    {"term": "Summer 2025", "code": "MAC 2312", "title": "Calculus with Analytic Geometry II", "role": "Solo instructor"},
+    {"term": "Spring 2025", "code": "MAC 2311", "title": "Calculus with Analytic Geometry I", "role": "Solo instructor"},
+    {"term": "Fall 2024", "code": "MAS 3105 · Sections 0002, 0003", "title": "Applied Linear Algebra I", "role": "Grader"},
+    {"term": "Spring 2024", "code": "MAP 2302 · Sections 0002, 0003", "title": "Ordinary Differential Equations", "role": "Grader"},
+    {"term": "Fall 2023", "code": "MAP 2302 · Sections 0003, 0004", "title": "Ordinary Differential Equations", "role": "Grader"}
+  ],
+  "appointments": [
+    {"date": "Aug 2023–present", "title": "Graduate Teaching Assistant, Grader & Instructor of Record", "place": "Florida State University, Tallahassee", "detail": "Calculus I, II, and III; applied linear algebra; ordinary differential equations."},
+    {"date": "Feb 2018–present", "title": "Lecturer in Mathematics", "place": "Khairpur College of Agriculture and Management Sciences (KCAMS)", "detail": "Currently on study leave. Courses taught include linear algebra and calculus, differential equations, series solutions and integral transforms, numerical analysis, and applied engineering statistics."},
+    {"date": "Nov 2017–Feb 2018", "title": "Lecturer in Mathematics", "place": "IBA Community College, Ubauro, Sindh, Pakistan", "detail": ""},
+    {"date": "Dec 2016–Nov 2017", "title": "Lecturer in Mathematics", "place": "Pak-Turk International Schools and Colleges, Khairpur Campus", "detail": ""}
+  ],
+  "awards": [
+    {"date": "2026 & 2025", "title": "Bettye Anne Busbee Case Graduate Fellowship", "place": "Florida State University", "detail": "Recognition of outstanding graduate achievement in mathematics."},
+    {"date": "2025", "title": "Dean’s Award for Doctoral Excellence", "place": "Florida State University", "detail": "Recognition of academic achievement and research excellence."},
+    {"date": "2025", "title": "First Place, Math Honors Day Flash Talks Competition", "place": "Florida State University", "detail": "Graduate student flash talk competition."},
+    {"date": "2022–2027", "title": "Fulbright–HEC PhD Scholarship", "place": "Doctoral study in the United States", "detail": "Support for doctoral studies in mathematics at Florida State University."},
+    {"date": "2020", "title": "Gold Medal, MS Mathematics", "place": "Sukkur IBA University", "detail": ""},
+    {"date": "2017", "title": "Gold Medal, MSc Mathematics", "place": "Shah Abdul Latif University, Khairpur", "detail": ""}
+  ],
+  "talks": [
+    {"date": "Oct 2–3, 2026", "title": "The Generalized Volterra Signature", "place": "10th Eastern Conference on Mathematical Finance (ECMF-10)", "detail": "Johns Hopkins University · Baltimore, USA", "kind": "Poster presentation", "url": "https://sites.google.com/view/ecmf10jhu/home"},
+    {"date": "May 22–23, 2026", "title": "Branched Signature Model", "place": "5th International Conference on Computing, Mathematics and Engineering Technologies (iCoMET 2026)", "detail": "Sukkur IBA University · Sukkur, Pakistan", "kind": "Conference talk", "url": "https://icomet.iba-suk.edu.pk/"},
+    {"date": "Apr 3–4, 2026", "title": "Noise Estimation of SDE from a Single Data Trajectory", "place": "4th Southeast Applied and Computational Mathematics Student Workshop", "detail": "Emory University · Atlanta, USA", "kind": "Workshop talk", "url": "https://www.math.emory.edu/~yxi26/ACM26/index.html"},
+    {"date": "Oct 24–25, 2025", "title": "Branched Signature Model", "place": "9th Eastern Conference on Mathematical Finance (ECMF-9)", "detail": "Carnegie Mellon University · Pittsburgh, USA", "kind": "Poster presentation", "url": "https://sites.google.com/view/ecmf9/home"},
+    {"date": "2025", "title": "Math Honors Day Flash Talk", "place": "Florida State University", "detail": "First place in the graduate student flash talk competition.", "kind": "Flash talk", "url": ""},
+    {"date": "Jan 29–30, 2020", "title": "Credit Risk Structural Models Driven by Mixed Fractional Brownian Motion", "place": "3rd International Conference on Computing, Mathematics and Engineering Technologies (iCoMET 2020)", "detail": "Sukkur IBA University · Sukkur, Pakistan", "kind": "Conference talk", "url": "https://icomet.iba-suk.edu.pk/past_events/"}
+  ],
+  "grants": [
+    {"date": "2026", "title": "AMS Graduate Student Travel Grant", "place": "American Mathematical Society", "detail": "Support for participation in the International Congress of Mathematicians (ICM 2026), Philadelphia, USA."},
+    {"date": "2022–2027", "title": "Fulbright–HEC PhD Scholarship", "place": "Florida State University", "detail": "Support for doctoral studies in mathematics in the United States."}
+  ],
+  "schools": [
+    {"date": "Jun 22–Jul 2, 2026", "title": "John Tukey Summer Graduate School: Mathematics of Generative Models", "place": "SLMath · Berkeley, California", "detail": "", "url": "https://www.slmath.org/summer-schools/1136"},
+    {"date": "Aug 4–8, 2025", "title": "Summer School: Scientific Machine Learning", "place": "Brin Mathematics Research Center, University of Maryland", "detail": "", "url": "https://brinmrc.umd.edu/summer25-school-ml-html/"},
+    {"date": "Jul 1–12, 2024", "title": "Summer Graduate School: Stochastic Quantization", "place": "SLMath · Berkeley, California", "detail": "", "url": "https://www.slmath.org/workshops/1038"},
+    {"date": "Dec 24–28, 2018", "title": "National Winter School on Risk, Insurance, Stochastic and Finance", "place": "Sukkur IBA University · Sukkur, Pakistan", "detail": "", "url": "https://www.iba-suk.edu.pk/mathematics/winter-school-on-risk"}
+  ],
+  "workshops": [
+    {"date": "Oct 15–17, 2021", "title": "First SIBAU–NU International Workshop on Matrix Analysis and Linear Algebra", "place": "Sukkur IBA University · Online", "detail": ""},
+    {"date": "Nov 19, 2019", "title": "LaTeX Workshop", "place": "Sukkur IBA University", "detail": ""}
+  ]
+}

@@ -10,5 +10,9 @@
 *.pem
 *.key
 
-# Personal document already present in this folder; not part of the website
-/My_recent_CV (4).pdf
+# Local source documents and browser printouts; publish only explicit web assets
+/*.pdf
+
+# Python build cache
+__pycache__/
+*.pyc
